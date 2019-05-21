@@ -5,6 +5,12 @@
     "license": "MIT",
     "bin": "ModAssistant.exe",
     "checkver": "github",
+    "shortcuts": [
+      [
+        "ModAssistant.exe",
+        "Mod Assistant"
+      ]
+    ],
     "architecture": {
         "64bit": {
             "url": "https://github.com/Assistant/ModAssistant/releases/download/v1.0.10/ModAssistant.exe",
