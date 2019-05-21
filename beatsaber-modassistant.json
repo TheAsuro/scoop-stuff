@@ -1,0 +1,21 @@
+{
+  "description": "BeatSaber ModAssistant Mod Manager",
+  "version": "1.0.10",
+  "homepage": "https://github.com/Assistant/ModAssistant",
+  "license": "MIT",
+  "bin": "ModAssistant.exe",
+  "checkver": "github",
+  "architecture": {
+    "64bit": {
+      "url": "https://github.com/Assistant/ModAssistant/releases/download/v1.0.10/ModAssistant.exe",
+      "hash": "8C00C243E184F2D9B7B518CB3213A1D29A25C2D0E6F7C09CB739634BFF16B9CD"
+    }
+  },
+  "autoupdate": {
+    "architecture": {
+      "64bit": {
+        "url": "https://github.com/Assistant/ModAssistant/releases/download/v1.0.10/ModAssistant.exe"
+      }
+    }
+  }
+}
