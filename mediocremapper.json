@@ -4,7 +4,10 @@
   "homepage": "https://github.com/squeaksies/MediocreMapper",
   "license": "MIT",
   "bin": "MediocreMapper.exe",
-  "checkver": "github",
+  "checkver": {
+    "url": "https://github.com/squeaksies/MediocreMapper/releases/latest",
+    "re": "Mediocre Mapper (Mk\\S)"
+  },
   "architecture": {
     "64bit": {
       "url": "https://github.com/squeaksies/MediocreMapper/releases/download/Mk4/MediocreMapper.zip",
