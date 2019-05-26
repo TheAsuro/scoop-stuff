@@ -1,6 +1,6 @@
 {
     "description": "BeatSaber ModAssistant Mod Manager",
-    "version": "1.0.16",
+    "version": "1.0.17",
     "homepage": "https://github.com/Assistant/ModAssistant",
     "license": "MIT",
     "bin": "ModAssistant.exe",
