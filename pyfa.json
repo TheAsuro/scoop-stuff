@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/Assistant/ModAssistant/releases/download/$version/Pyfa-$version-win.zip"
+                "url": "https://github.com/pyfa-org/Pyfa/releases/download/$version/Pyfa-$version-win.zip"
             }
         }
     }
