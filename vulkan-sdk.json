@@ -9,7 +9,7 @@
             "hash": "6233e3095b67b883a55b4fa61fd0376feecb1de1e0a7b3962fa7a85cdd0e663f"
         }
     },
-	"checkver": 'windows: \["(\d\.\d\.\d\d\d\.\d)',
+	"checkver": "windows: \\[\"(\\d\\.\\d\\.\\d\\d\\d\\.\\d)",
 	"autoupdate": {
 		"architecture": {
 			"64bit": {
