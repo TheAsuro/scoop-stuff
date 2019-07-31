@@ -19,7 +19,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/pyfa-org/Pyfa/releases/download/$version/pyfa-$version-win.zip"
+                "url": "https://github.com/pyfa-org/Pyfa/releases/download/v$version/pyfa-$version-win.zip"
             }
         }
     }
