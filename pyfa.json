@@ -1,6 +1,6 @@
 {
     "description": "Python Fitting Assistant",
-    "version": "2.9.6",
+    "version": "2.11.0",
     "homepage": "https://github.com/pyfa-org/Pyfa",
     "bin": "pyfa.exe",
     "checkver": "github",
@@ -12,8 +12,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pyfa-org/Pyfa/releases/download/v2.9.6/pyfa-v2.9.6-win.zip",
-            "hash": "cfb57e4fccf466a0fa7510a5c435a147259f7241f73cddc0af7cefbaea7ec381"
+            "url": "https://github.com/pyfa-org/Pyfa/releases/download/v2.11.0/pyfa-v2.11.0-win.zip",
+            "hash": "820727ac6ad6b7b2050b5994ccb892b9747a26eef8a6091655706ad0103a01fe"
         }
     },
     "autoupdate": {
